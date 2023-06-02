@@ -1,0 +1,44 @@
+.header {
+    background-color:navy;
+    height: 400px;
+}
+
+.right-links {
+    list-style-type: none;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+
+.LOGO {
+    text-align: left;
+    margin-top: -30px;
+    margin-left: 150px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1, p {
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 40px;
+    color: white;
+}
+
+.sign-up-button {
+    margin-left: 150px;
+    background-color: lightskyblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-top: -200px;
+    margin-right: 100px;
+}
